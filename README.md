@@ -1,0 +1,1 @@
+Nossa enigma está na resolução de um problema em que uma loja está tendo um problema na maquina de conversão de tamanho, onde ela não consegue converter os tamanhos de forma correta, onde quem a resolver tera uma recompensa.
